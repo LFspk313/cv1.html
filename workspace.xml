@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="510fb0f7-bfe5-4a09-8a92-6eaca91227d5" name="Changes" comment="" />
+    <list default="true" id="510fb0f7-bfe5-4a09-8a92-6eaca91227d5" name="Changes" comment="Push" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/AppData/Local/Temp/cv1.html11757378296838619597/.idea" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "LFspk313"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/LFspk313/cv1.html.git",
+    "accountId": "f03b0227-4422-4351-b22b-d02e5cf002be"
+  }
+}]]></component>
   <component name="OpenProjectSettingsState">
     <option name="locatedInTempDirectory" value="true" />
   </component>
@@ -56,11 +68,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1758808814747</updated>
-      <workItem from="1758808816284" duration="472000" />
+      <workItem from="1758808816284" duration="826000" />
     </task>
+    <task id="LOCAL-00001" summary="Push">
+      <option name="closed" value="true" />
+      <created>1758809644111</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758809644111</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Push" />
+    <option name="LAST_COMMIT_MESSAGE" value="Push" />
   </component>
 </project>
